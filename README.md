@@ -10,4 +10,4 @@ This is the static image we generate:
 And this is the gif we generate:
 
 
-![probabilistic represenation of the outline of Antarctica](Antarctica_dynamic.gif)
+![probabilistic represenation of the outline of Antarctica](Antarctica_dynamic_transparent_dots.gif)
